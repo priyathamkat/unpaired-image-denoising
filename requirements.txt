@@ -1,0 +1,3 @@
+pytorch>=1.2
+tqdm
+tensorboard
