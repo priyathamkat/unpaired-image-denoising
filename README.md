@@ -1,6 +1,7 @@
 # Unpaired Image Denoising
 
-Code for the paper titled **Unpaired Image Denoising** (accepted for ICIP 2020).
+Code for the paper: [Unpaired Image Denoising](https://priyathamkat.com/projects/unpaired-image-denoising/) (accepted for ICIP 2020).
+
 ## Instructions to reproduce
 Module dependencies are listed in `requirements.txt`.
 
